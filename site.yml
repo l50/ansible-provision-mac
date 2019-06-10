@@ -1,6 +1,5 @@
 ---
 - name: Configure Mac
   hosts: all
-  # TODO: My space_vim role should be broken out into its own repo eventually
   roles:
-    - space_vim
+    - l50.ansible_spacevim
