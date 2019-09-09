@@ -26,5 +26,6 @@ MIT
 This role was created in 2019 by [Jayson Grace](https://techvomit.net)
 
 ## TODO
--[] Add Brew role
+-[] Add https://github.com/l50/homebrew-brewfile
+
 -[] Add autoupdate cronjob
